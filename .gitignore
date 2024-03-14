@@ -1,9 +1,11 @@
 # Ignore YAML files
 *.yaml
 *.yml
+*.html
 
 # Ignore log files
 *.log
+*.json
 
 # Ignore image files
 *.jpg
@@ -14,7 +16,18 @@
 *.tiff
 *.webp
 
-
-.txt
-
 .DS_Store
+
+*.tgz
+*.tar.gz
+*.pth
+
+*.ALXPRO.*
+
+*.wandb
+
+*.pdf
+
+requirements.txt
+
+*.meta
