@@ -1,0 +1,1 @@
+/Users/alexandermittet/miniconda3/envs/BA/bin/python /Users/alexandermittet/Documents/Seafile/ba-projekt/MAE/mae_pretrain.py
