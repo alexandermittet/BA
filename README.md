@@ -45,6 +45,7 @@ TL;DR IT WORKS!
 
 ## Tables: Predicting MES-Score (mayo endoscopic subscore) 
 Baseline model predicting MES-Score directly vs our method (MAE pre-training) vs fine-tuned timm (torch image models)
+
 ![tables](https://github.com/user-attachments/assets/3925a43a-09ee-4a8a-9cb0-ab899cafb0f1)
 Our method lifts MES-score prediction F1-score by 17%-points. Timm fine-tuning lifts by 30%-points.
 
